@@ -1,6 +1,6 @@
 # Computer & VLSI Systems Project
 
-This project is a Verilog-based implementation of a simple 16-bit CPU. The design is structured for both simulation using ModelSim/QuestaSim and for synthesis on Intel/Altera FPGA development boards (specifically targeting Cyclone III and Cyclone V families). It serves as an educational example of digital system design, from HDL-based implementation to simulation, synthesis, and hardware deployment.
+This project is a Verilog-based implementation of a simple 16-bit CPU. The design is structured for both simulation using ModelSim/QuestaSim and for synthesis on Intel/Altera FPGA development boards (specifically targeting Cyclone III and Cyclone V families). It serves as an educational example of digital system design, from HDL-based implementation to simulation, synthesis, and hardware deployment. This project was developed as a part of the Computer VLSI Systems course at the University of Belgrade, School of Electrical Engineering.
 
 ## Tech Stack
 
